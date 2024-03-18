@@ -6,5 +6,4 @@
  2. run คำสั่ง ```npm install```
  3. run คำสั่ง ```npm run dev```
     
-**run บน web** : 
- 
+**run บน web** : https://resume-sarawalee.netlify.app/
