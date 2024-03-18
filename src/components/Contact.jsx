@@ -41,7 +41,9 @@ function Contact() {
           <FontAwesomeIcon icon={faGithub} style={{ color: "#000000" }} />
         </div>
         <div className="col">
-          <div style={{ marginLeft: "10px" }}>JxnxSa</div>
+          <a href="https://github.com/JxnxSa" style={{ color: "black" }}>
+            <div style={{ marginLeft: "10px" }}>JxnxSa</div>
+          </a>
         </div>
       </div>
       <div className="row mb-2">
@@ -49,7 +51,9 @@ function Contact() {
           <FontAwesomeIcon icon={faLinkedin} style={{ color: "#000000" }} />
         </div>
         <div className="col">
-          <div style={{ marginLeft: "10px" }}>Sarawalee Tangjittham</div>
+          <a href="https://www.linkedin.com/in/sarawaleejst/" style={{ color: "black" }}>
+            <div style={{ marginLeft: "10px" }}>Sarawalee Tangjittham</div>
+          </a>
         </div>
       </div>
     </div>
