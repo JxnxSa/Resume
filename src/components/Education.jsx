@@ -22,7 +22,7 @@ function Education() {
           <div className="fw-bold">2561 - 2563</div>
         </div>
         <div className="col">
-          <div className="fw-bold">โรงเรียนกาญจาภิเษกวิทยาลัย สุพรรณบุรี</div>
+          <div className="fw-bold">โรงเรียนกาญจนาภิเษกวิทยาลัย สุพรรณบุรี</div>
           <div>มัธยมศึกษาตอนปลาย</div>
         </div>
       </div>
