@@ -24,9 +24,9 @@ function App() {
           </div>
           <div className="col-xs-12 col-sm-8 ">
             <div className="p-4 m-3">
+              <Experience />
               <Education />
               <Project />
-              <Experience />
             </div>
           </div>
         </div>

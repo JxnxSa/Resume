@@ -1,16 +1,13 @@
-import React from "react";
 import Bar from "./Bar";
 
 function Skill() {
   const skills = [
-    "C/C++",
-    "Java",
-    "Flutter",
-    "PHP",
+    "Angular",
+    "HTML",
+    "CSS",
     "Javascript",
-    "Python",
-    "MySQL",
-    "Go",
+    "Typescript",
+    "Bootstrap",
     "React.js",
   ];
   return (

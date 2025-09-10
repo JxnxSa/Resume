@@ -1,4 +1,3 @@
-import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 import {
@@ -16,7 +15,7 @@ function Contact() {
         </div>
         <div className="col">
           <div style={{ marginLeft: "10px", wordWrap: "break-word" }}>
-            tangjittham_s@silpakorn.edu
+            contact.sarawalee@gmail.com
           </div>
         </div>
       </div>

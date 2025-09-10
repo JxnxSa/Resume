@@ -1,5 +1,3 @@
-import React from "react";
-
 function Bar() {
   return (
     <div className="mt-2 mb-3">
