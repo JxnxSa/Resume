@@ -13,7 +13,7 @@ function Experience() {
           <div className="fw-bold">Frontend Developer (Internship และ Part-Time)</div>
           <div>ที่ <span className="fw-bold">Botnoi Consulting Co.,Ltd.</span></div>
           <ul>
-            <li>พัฒนา Chatbot Platform ในส่วน Front-end โดยใช้ Angular</li>
+            <li>พัฒนา Platform ในส่วน Front-end โดยใช้ Angular</li>
             <li>พัฒนา Landing Page ด้วย Strapi</li>
           </ul>
         </div>
