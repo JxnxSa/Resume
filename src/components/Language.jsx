@@ -1,7 +1,7 @@
 import Bar from "./Bar";
 
 function Language() {
-  const languages = ["ภาษาไทย - เจ้าของภาษา", "ภาษาอังกฤษ - ระดับกลาง"];
+  const languages = ["ภาษาไทย", "ภาษาอังกฤษ"];
   return (
     <div className="mt-3">
       <h2 style={{ color: "navy" }}>ภาษา</h2>
