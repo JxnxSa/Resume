@@ -29,7 +29,7 @@ function Experience() {
       </div>
       <div className="row">
         <div className="col-3">
-          <div className="fw-bold">2566</div>
+          <div className="fw-bold">2565</div>
         </div>
         <div className="col">
           <div className="fw-bold">อบรมชิงทุนการศึกษาจากบริษัท Prior Solution</div>
