@@ -1,4 +1,4 @@
-# Assignment 3 (Resume)
+# (Resume)
 
 ## วิธีการ Run  
 **run บน Terminal** :  
